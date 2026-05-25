@@ -2,7 +2,8 @@
 
 # Date:25/05/2026
 # Register no:212223220079
-# Aim: To develop a prompt-based application using ChatGPT - To demonstrate how to create a prompt-based application to organize daily tasks, showing the progression from simple to more advanced prompt designs and their corresponding outputs.
+# Aim: 
+To develop a prompt-based application using ChatGPT - To demonstrate how to create a prompt-based application to organize daily tasks, showing the progression from simple to more advanced prompt designs and their corresponding outputs.
 # Explanation: 
 Prompt:
 "Design a personal productivity assistant that can help manage daily tasks, schedule reminders, suggest wellness tips, and answer general queries. The assistant should interact using natural language and be adaptable to the user’s changing preferences over time."
@@ -327,6 +328,7 @@ All four applications demonstrate the following progression pattern:
 **Intermediate Prompt** → Structured table or schedule with priorities and timing
 
 **Advanced Prompt** → Full, professional, domain-expert-quality output with edge cases, contingencies, tips, and actionable next steps
+
 # Result: 
 The lab exercise resulted in the creation of a prototype concept for a personal assistant powered by large language models. Students were able to:
  Understand how to tailor LLM prompts to real-life applications.
